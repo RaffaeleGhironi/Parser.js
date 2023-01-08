@@ -1,6 +1,6 @@
 # parser.js
 Script scritto in Javascript che si occupa di ... 
-- Leggere i dati di produzione di due impianti Fotovoltaici dalle pagine web dei due inverter.
+- Leggere i dati di produzione di due impianti Fotovoltaici collegati ad un Datalogger.
 - Creare una pagina html impaginata in modo semplice e leggibile.
 
 Lo script è nato per creare una unica pagina html da proiettare su un VideoWall pubblico.
