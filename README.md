@@ -3,9 +3,9 @@ Script scritto in Javascript che si occupa di ...
 - Leggere i dati di produzione di due impianti Fotovoltaici collegati ad un Datalogger.
 - Creare una pagina html impaginata in modo semplice e leggibile.
 
-Lo script è nato per creare una unica pagina html da proiettare su un VideoWall pubblico.
+Lo script è nato per creare una pagina html unica da proiettare su un VideoWall pubblico.
 
-Compilare il file config.json con i parametri corretti dei due inverter
+Compilare il file config.json con i parametri corretti del Datalogger
 
 Qui sotto un esempio del risultato finale.
 
